@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/F4Marc124/static/css/main.e6c13ad2.css",
+    "main.js": "/F4Marc124/static/js/main.6d5f5e57.js",
+    "index.html": "/F4Marc124/index.html",
+    "main.e6c13ad2.css.map": "/F4Marc124/static/css/main.e6c13ad2.css.map",
+    "main.6d5f5e57.js.map": "/F4Marc124/static/js/main.6d5f5e57.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6d5f5e57.js"
+  ]
+}
